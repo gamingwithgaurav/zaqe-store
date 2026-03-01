@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 
 // 🌐 Cloud Backend API
-const API_URL = "https://your-api-url.com";
+const API_URL = "https://your-frontend-domain.vercel.app/api";
 import { motion } from "framer-motion";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
